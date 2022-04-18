@@ -58,6 +58,7 @@
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shr_ni)
 <a href="https://codeforces.com/profile/shravni_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="_lucifer_" height="30" width="40" /></a>
 
+<!-- leetcode status -->
  <h2 align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
   <a href="https://leetcode.com/shravni_code/" target="_blank">
