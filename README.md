@@ -1,5 +1,5 @@
 ### Hi there 👋<h1 align="center">Hey, I am Shravni Wakde <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p><h2 align="center"> 🚀 Software Engineering sophomore • CP Enthusiast </h2>
+<h2 align="center"> 🚀 Software Engineering sophomore • CP Enthusiast </h2>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 
@@ -53,11 +53,18 @@
 ## 👨🏻‍💻 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/shravni_code/)
-<!-- [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/thepranaygupta)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/thepranaygupta)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/thepranaygupta) -->
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/wakdeshravni1/profile)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/wakdeshravni1)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shr_ni)
+<a href="https://codeforces.com/profile/shravni_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="_lucifer_" height="30" width="40" /></a>
 
-  
+ <h2 align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
+<p align="center">
+  <a href="https://leetcode.com/shravni_code/" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=shravni_code&theme=dark&extension=activity"/>
+  </a>
+</p>
+
 <details><summary>Trophies</summary>
 <p align="left">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=shravni21&column=7&theme=gruvbox&no-frame=true"/>
