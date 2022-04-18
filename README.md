@@ -1,5 +1,5 @@
 ### Hi there 👋<h1 align="center">Hey, I am Shravni Wakde <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p><h2 align="center"> 🚀 Software Engineering sophomore • • CP Enthusiast </h2>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p><h2 align="center"> 🚀 Software Engineering sophomore • CP Enthusiast </h2>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 
