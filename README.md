@@ -1,5 +1,4 @@
-### Hi there 👋<h1 align="center">Hey, I am Shravni Wakde <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h2 align="center"> 🚀 Software Engineering sophomore • CP Enthusiast </h2>
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm Shravni 👋
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 
