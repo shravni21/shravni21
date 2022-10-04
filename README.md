@@ -14,14 +14,18 @@
 I'm interested in <br />front end development and competitive programming. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br />
 <br />
-🔭 Exploring new technologies and developing programming insights.
+```cpp
+#include<life.h>
+void main()
+{
+  while(noSuccess)
+    tryAgain();
+  while(Success)
+    improve();
+}
+```
 <br />
-💬 Ask me about  C++, C ,front end
-<br />
-📫 How to reach me: wakdeshravni1@gmail.com
-<br />
-⚡ Fun fact: DSA required... :smile:
-<br />
+
 ### 🛠 &nbsp;Connect with me
 
 <p align="left">
