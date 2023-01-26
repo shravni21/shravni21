@@ -144,26 +144,11 @@ void main()
  
 
 
-
+### 🛠 &nbsp;Snake eating my contribution graph
        
-
-
-
-<p align="centre">
- 
-  
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=shravni21&theme=chartreuse-dark&no-frame=true" /></p>
- 
-</details>
+ ![snake gif](https://github.com/shravni21/shravni21/blob/output/github-contribution-grid-snake.gif)
 
 
 
 
-
-
-
-
-<!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31v6pvoxphilo63ijnfpfoeut6ru?si=706fb369d2d74e40)  -->
 
