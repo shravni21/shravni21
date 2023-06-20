@@ -11,7 +11,7 @@
 </h1>
  <img align="right"src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
-I'm interested in <br />front end development and competitive programming. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm interested in <br />Backend development and competitive programming. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br />
 <br />
 ```cpp
