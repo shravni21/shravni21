@@ -144,9 +144,8 @@ void main()
  
 
 
-### 🛠 &nbsp;Snake eating my contribution graph
-       
- ![snake gif](https://github.com/shravni21/shravni21/blob/output/github-contribution-grid-snake.gif)
+<!---              ### 🛠 &nbsp;Snake eating my contribution graph -->
+ <!---               -->![snake gif](https://github.com/shravni21/shravni21/blob/output/github-contribution-grid-snake.gif)*
 
 
 
